@@ -1,4 +1,4 @@
-Hosted on netlify: authentication-bank.netlify.app
+Hosted on netlify: https://authentication-bank.netlify.app/
 # Account-Authentication
 A simple bank based user authentication application for transfering funds and requesting loan. Semi responsive site, the user details for checking the functionality.
 

@@ -122,7 +122,9 @@ nav {
   border-radius: 1rem;
   overflow: scroll;
 }
-
+.movements::-webkit-scrollbar {
+  display: none;
+}
 .movements__row {
   padding: 2.25rem 4rem;
   background-color: #bbd0f2;
